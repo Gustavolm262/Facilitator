@@ -31,6 +31,10 @@ Facilitator-Python/
 
 ├── functions.py      # Todas as funções que dão suporte à interface
 
+├── function_Download.py      # Todas as funções relacionadas a download de programas terceirizados, como PostgresSql, Alterdata Manager, entre outros.
+
+├── function_printer.py      # Todas as funções com os links de drivers das impressoras.
+
 └── README.md         # Documentação do projeto
 
 
